@@ -1,7 +1,7 @@
 <template>
-	<div>
-		main page
-	</div>
+  <div>
+    main page
+  </div>
 </template>
 
 <script setup lang="ts">
